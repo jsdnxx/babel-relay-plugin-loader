@@ -3,9 +3,9 @@ babel-relay-plugin-loader
 
 Versions
 ========
-The current `babel-relay-plugin-loader` version `0.10.0` and `0.10.0-nologs` is loading the `babel-relay-plugin` version `0.10.0`.
+The current `babel-relay-plugin-loader` version `0.11.0` and `0.11.0-nologs` is loading the `babel-relay-plugin` version `0.11.0`.
 
-The `0.10.0-nologs` is only to keep the version number in sync with `babel-relay-plugin` and the `-nologs` tag
+The `0.11.0-nologs` is only to keep the version number in sync with `babel-relay-plugin` and the `-nologs` tag
 should not be used with the next version anymore since it no console logs will be the default behaviour anyways then.
 
 Overview
